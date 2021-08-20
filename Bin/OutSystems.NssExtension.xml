@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OutSystems.NssExtension</name>
+    </assembly>
+    <members>
+        <member name="M:OutSystems.NssExtension.CssExtension.Encrypt(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="ssInputPassword"></param>
+            
+        </member>
+        <member name="M:OutSystems.NssExtension.CssExtension.MssAction1(System.String,System.String@)">
+            <summary>
+            
+            </summary>
+            <param name="ssInputPassword"></param>
+            <param name="ssOutputPassword"></param>
+        </member>
+        <member name="M:OutSystems.NssExtension.IssExtension.MssEncryptPassword(System.String,System.String@)">
+            <summary>
+            
+            </summary>
+            <param name="ssInputPassword"></param>
+            <param name="ssOutputPassword"></param>
+        </member>
+    </members>
+</doc>
